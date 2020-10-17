@@ -1,6 +1,6 @@
 ### Hello! I'm Wesley. 👋
 
-## I'm a Developer and games and music lover!
+## I'm a Developer and games, music lover!
 - 👾 I'm studying and researching about machine learning and data science topics.
 - 🧙 love boardgames/cardgames ( mainly MTG ❤️)
 - 🤖 From time to time I really like to build stuff with Arduino.
