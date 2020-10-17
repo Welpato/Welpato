@@ -5,12 +5,21 @@
 - 🧙 love boardgames/cardgames ( mainly MTG ❤️)
 - 🤖 From time to time I really like to build stuff with Arduino.
 
+---
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-93joy5f0g.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12162941631)
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Welpato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Welpato | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
