@@ -1,9 +1,10 @@
 ### Hello! I'm Wesley. 👋
 
 ## I'm a Developer and games, music lover!
-- 👾 I'm studying and researching about machine learning and data science topics.
-- 🧙 love boardgames/cardgames ( mainly MTG ❤️)
+- 📚 I'm very curious and I'm always studying and trying to understand new stuff.
+- 🧙 Love boardgames/cardgames ( mainly MTG ❤️)
 - 🤖 From time to time I really like to build stuff with Arduino.
+- 🎹 Learning how to play the piano.
 
 ---
 ### Spotify Playing 🎧
