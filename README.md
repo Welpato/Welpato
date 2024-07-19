@@ -4,14 +4,7 @@
 - 📚 I'm very curious and I'm always studying and trying to understand new stuff.
 - 🧙 Love boardgames/cardgames ( mainly MTG ❤️)
 - 🤖 From time to time I really like to build stuff with Arduino.
-- 🎹 Learning how to play the piano.
 
----
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-fmkkx6xag-welpato.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12162941631)
-
----
 
 ### Connect with me:
 
